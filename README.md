@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/samueleras/samueleras/assets/123464312/0e6bdf37-6f6a-41be-9fb2-9a8e4dc3aef0)
+<p  align="center">
+<img src="https://github.com/samueleras/samueleras/assets/123464312/e629e088-8d7a-439b-943a-fcc9b73b1cf3" height="150" width="800"/>
+</p>
+
 
 <h2 align="center">A passionate fullstack developer from Munich</h3>
 <br>
