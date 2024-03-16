@@ -8,7 +8,7 @@
 <h2 align="center">A passionate fullstack developer from Munich</h3>
 <br>
 <h4>
-<p align="center">- 🔭 I’m currently working on https://github.com/samueleras/game-hub</p>
+<p align="center">- 🔭 I’m currently working on https://github.com/samueleras/dreamcars-car-shop</p>
 
 <p align="center">- 🌱 I’m currently learning React, Chakra and Bootstrap</p>
 </h5>
