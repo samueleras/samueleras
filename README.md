@@ -8,9 +8,9 @@
 <h2 align="center">A passionate fullstack developer from Munich</h3>
 <br>
 <h4>
-<p align="center">- 🔭 I’m currently working on https://github.com/samueleras/dreamcars-car-shop</p>
+<p align="center">- 🔭 I’m currently working on https://github.com/samueleras/ai-helpdesk-bachelors-project</p>
 
-<p align="center">- 🌱 I’m currently learning React, Chakra and Bootstrap</p>
+<p align="center">- 🌱 I’m currently learning FastAPI and React</p>
 </h5>
 <br>
 <h3 align="center">Languages and Tools:</h3>
